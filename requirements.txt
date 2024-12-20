@@ -1,0 +1,10 @@
+# List your project dependencies below. For example:
+crewai
+python-dotenv
+Authlib
+requests
+flask-oauthlib
+stripe
+Flask
+
+
